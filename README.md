@@ -1,5 +1,5 @@
 # Bookstore
-Bookstore application for Java Project
+Bookstore application using Java Project
 
 The focus of this software will be to manage all important steps 
 of a Library. The software keepS data about all  the books 
