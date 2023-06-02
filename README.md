@@ -43,9 +43,7 @@ him also data about total incomes (total  of books sold) and total
 cost (total of items bought and staff salaries) during a period.
 Another important role of the administrator can be to revoke 
 permissions from librarians or managers. This means that the 
-permissions should be role-based. This is not mandatory, but 
-you get extra points if you can manage to implement it, otherwise
-keep the permissions static.
+permissions should be role-based. 
  
 
 # Requirements
